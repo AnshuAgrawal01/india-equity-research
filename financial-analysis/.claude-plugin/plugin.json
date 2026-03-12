@@ -1,0 +1,8 @@
+{
+  "name": "india-financial-analysis",
+  "version": "0.1.0",
+  "description": "Core financial modeling and analysis tools for Indian markets (NSE/BSE): DCF, comps, LBO, 3-statement models, competitive analysis, and deck QC",
+  "author": {
+    "name": "AnshuAgrawal01"
+  }
+}
